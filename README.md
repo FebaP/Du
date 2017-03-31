@@ -1,5 +1,6 @@
 <html>
 <body>
+<backgroundimage>University_of_Delhi.png</backgroundimage>
 <b>Delhi University</b>
 <h1> Suggestion </h1>
 <table>
