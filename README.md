@@ -1,6 +1,5 @@
 <html>
 <body>
-<backgroundimage>University_of_Delhi.png</backgroundimage>
 <b>Delhi University</b>
 <h1> Suggestion </h1>
 <table>
@@ -62,8 +61,6 @@ site use a "robots.txt" file: http://du.ac.in/robots.txt</td>
 <td>Age</td>
 <td>28th February'2004 05:00:00 UTC</td>
 </tr>
-
-
 </table>
 <body/>
 <html/>
